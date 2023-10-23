@@ -1,6 +1,6 @@
 Completed Random Password Generator
 
-#Description of what I did
+Description of what I did
 
 What I did for the Random Password Generator challenge
 
