@@ -14,4 +14,5 @@ What I did for the Random Password Generator challenge
 
   
 
-![Uploading Screenshot 2023-10-23 182333.png…]()
+![Screenshot 2023-10-23 182333](https://github.com/NickLeeCode/Password-Random-Generater/assets/78667085/7c40a47c-eee1-4d52-a70d-a7299e59d935)
+
